@@ -1,5 +1,5 @@
 # ICPC Asia Dhaka Regional Onsite Contest (BUBT-2023)
-In 2023, I participated as the team leader of our university's first team CSTU_Code_Commandos in the ICPC Asia Dhaka Regional Onsite Contest. 
+In 2023, I participated as a team leader of our university's first team CSTU_Code_Commandos in the ICPC Asia Dhaka Regional Onsite Contest. 
 It was held in Bangladesh University of Business and Technology or BUBT is a private university in Bangladesh, located in Mirpur, Dhaka, Bangladesh.
 
 Here is my ICPC global Public Profile ->  https://icpc.global/ICPCID/5IVAVTJRQ728
